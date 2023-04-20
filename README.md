@@ -5,8 +5,11 @@
    
 # Algorithm:
    Step 1:Read the given Data.
+   
    Step 2:Clean the Data Set using Data Cleaning Process.
+   
    Step 3:Apply Feature Transformation techniques to all the features of the data set.
+   
    Step 4:Save the data to the file.
    
 # Code:
