@@ -91,67 +91,67 @@ plt.show()
 
 Dataset
 
-![]()
+![](b1.png)
 
 Head
 
-![]()
+![](b2.png)
 
 Null data
 
-![]()
+![](b3.png)
 
 Information
 
-![]()
+![](b4.png)
 
 Description
 
-![]()
+![](b5.png)
 
 Highly Positive Skew
 
-![]()
+![](b6.png)
 
 Highly Negative Skew
 
-![]()
+![](b7.png)
 
 Moderate Positive Skew
 
-![]()
+![](b8.png)
 
 Moderate Negative Skew
 
-![]()
+![](b9.png)
 
 Log of Highly Positive Skew
 
-![]()
+![](b10.png)
 
 Log of Moderate Positive Skew
 
-![]()
+![](b11.png)
 
 Reciprocal of Highly Positive Skew
 
-![]()
+![](b12.png)
 
 Square root tranformation
 
-![]()
+![](b13.png)
 
 Power transformation of Moderate Positive Skew
 
-![]()
+![](b14.png)
 
 Power transformation of Moderate Negative Skew
 
-![]()
+![](b15.png)
 
 Quantile transformation
 
-![]()
+![](b16.png)
 
 # Result:
 
