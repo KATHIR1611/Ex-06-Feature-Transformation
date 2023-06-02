@@ -1,9 +1,15 @@
 # Ex-06-Feature-Transformation
 
-# Aim:
+Date - 
+
+Colab Link -https://colab.research.google.com/drive/11iA9R_FTAmWY-mVMs0D_1HQVQsaDvmX3?usp=sharing
+
+Github Link -https://github.com/KATHIR1611/Ex-06-Feature-Transformation
+
+# AIM
    To read the given data and perform Feature Transformation process and save the data to a file.
    
-# Algorithm:
+# Algorithm
    Step 1:Read the given Data.
    
    Step 2:Clean the Data Set using Data Cleaning Process.
@@ -12,7 +18,7 @@
    
    Step 4:Save the data to the file.
    
-# Code:
+# Code
  
  Developed by:Kathirvelan.K
  
@@ -87,7 +93,7 @@ df['ModerateNegativeSkew_2'] = pd.DataFrame(qt.fit_transform(df[['Moderate Negat
 sm.qqplot(df['ModerateNegativeSkew_2'],fit=True,line='45')
 plt.show()
 ```
-# Output:
+# Output
 
 Dataset
 
@@ -153,7 +159,7 @@ Quantile transformation
 
 ![](b16.png)
 
-# Result:
+# Result
 
    Thus, Feature transformation is performed and executed successfully for the given dataset.
 
